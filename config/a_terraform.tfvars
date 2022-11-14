@@ -3,7 +3,7 @@ vcenter_server = ""
 vcenter_user = ""
 vcenter_password = ""
 vsphere_datacenter = ""
-vsphere_compute_cluster =""
+vsphere_compute_cluster = ""
 vsphere_datastore_name = ""
 
 # Terraform will create a new resrouce pool/content lib, make sure the name doesn't conflict with existing ones.
