@@ -1,10 +1,10 @@
 ## vCenter configurations
-vcenter_server = "mvc06.isvlab.vmware.com"
-vcenter_user = "administrator@vsphere.local"
-vcenter_password = "P@ssword123!"
-vsphere_datacenter = "Datacenter"
-vsphere_compute_cluster ="Cluster"
-vsphere_datastore_name = "vsanDatastore"
+vcenter_server = ""
+vcenter_user = ""
+vcenter_password = ""
+vsphere_datacenter = ""
+vsphere_compute_cluster =""
+vsphere_datastore_name = ""
 
 # Terraform will create a new resrouce pool/content lib, make sure the name doesn't conflict with existing ones.
 vsphere_resource_pool_name = "cloud_init"
